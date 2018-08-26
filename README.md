@@ -1,4 +1,4 @@
-### Python Training
+### Python Training - Processed exercises
 
 Solutions for the exercises of the Jason Cannon's video-training.
 
