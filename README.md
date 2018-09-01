@@ -1,8 +1,8 @@
-### Python Training - Processed exercises
+## Python Training - Processed exercises
 
 Solutions for the exercises of the [Jason Cannon's video-training](https://www.linuxtrainingacademy.com/linux-video-training/).
 
-## Data Types
+### Data Types
 
 **01:** Write a Python program which uses three variables. The variables in your program shall be animal, vegetable, and mineral. Assign a value of type string to each variable. Your program shall display "Here is an animal, a vegetable, and a mineral." Then, display the value for animal, followed by the vegetable, and then the mineral. Each on it's own line.
 
