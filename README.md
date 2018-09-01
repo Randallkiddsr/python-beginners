@@ -14,7 +14,9 @@ Solutions for the exercises of the [Jason Cannon's video-training](https://www.l
 Write a Python script that displays the answers to the following questions: How much does it cost to operate a server per day?
 How much does it cost to operate a server per month?
 
-05: Building on the exersise 04: Let's assume that you have saved $918 to pay for the cloud-service. You ask yourself how many days you can keep one server running before your money runs out. But: If your social network becomes popular then it will require 20 servers to keep up with the demand. How much will it cost to operate twenty servers?
+05: Please see exercise 04.
+
+Let's assume that you have saved $918 to pay for the cloud-service. You ask yourself how many days you can keep one server running before your money runs out. But: If your social network becomes popular then it will require 20 servers to keep up with the demand. How much will it cost to operate twenty servers?
 Write a Python program that displays the answers to the following questions:
 
 - How much does it cost to operate one server per day?
