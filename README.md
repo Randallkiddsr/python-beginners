@@ -28,3 +28,5 @@ Write a Python program that displays the answers to the following questions:
 - How much does it cost to operate twenty servers per day?
 
 - How much does it cost to operate twenty servers per month? How many days can I operate one server with $918?
+
+**06**: Create a program that asks the user how far he/she wants to travel. If the answer is less than three miles tell the user to walk. If more than three miles, but less than three hundred miles, tell the user to drive. If more then 300 miles then tell the user to fly.
