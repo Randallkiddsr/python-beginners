@@ -42,4 +42,4 @@ After the noun, verb, and adjective have been collected from the user, display t
 
 ### Data Structures
 
-Create a Python program that captures and displays a person's to­do list. Continually prompt the user for another item until they enter a blank item. After all the items are entered, display the to­do list back to the user.
+***01***: Create a Python program that captures and displays a person's to­do list. Continually prompt the user for another item until they enter a blank item. After all the items are entered, display the to­do list back to the user.
