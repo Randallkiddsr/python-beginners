@@ -30,3 +30,12 @@ Write a Python program that displays the answers to the following questions:
 - How much does it cost to operate twenty servers per month? How many days can I operate one server with $918?
 
 **06**: Create a program that asks the user how far he/she wants to travel. If the answer is less than three miles tell the user to walk. If more than three miles, but less than three hundred miles, tell the user to drive. If more then 300 miles then tell the user to fly.
+
+### Functions
+
+**01**: Create a fill in the blank word game.
+
+Prompt the user to enter a noun, verb, and an adjective. Use those responses to fill in the blanks and display the story.
+Write a short story. Remove a noun, verb, and an adjective. Create a function to get the input from the user.
+Create a function that fills in the blanks in the story you created. Ensure each function contains a docstring.
+After the noun, verb, and adjective have been collected from the user, display the story using their input.
