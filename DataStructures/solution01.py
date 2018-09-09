@@ -4,12 +4,11 @@ def prompt_for_to_do():
         + "to-do list. Press <enter> when done: ")
 
 todos = []
-
 todo = prompt_for_to_do()
 
 while len(todo) > 0:
     todos.append(todo)
-    todo = todo = prompt_for_to_do()
+    todo = prompt_for_to_do()
 
 print("\nYour To-Do List:")
 print("----------------")
