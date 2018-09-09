@@ -43,3 +43,5 @@ After the noun, verb, and adjective have been collected from the user, display t
 ### Data Structures
 
 **01**: Create a Python program that captures and displays a person's to­do list. Continually prompt the user for another item until they enter a blank item. After all the items are entered, display the to­do list back to the user.
+
+**02**: Create a dictionary that contains a list of people and one interesting fact about each of them. Display each person and their interesting fact to the screen. Next, change a fact about one of the people. Also add an additional person and corresponding fact. Display the new list of people and facts. Run the program multiple times and notice if the order changes.
