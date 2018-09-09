@@ -1,6 +1,6 @@
 ## Python Training - Processed exercises
 
-Solutions for the exercises of the [Jason Cannon's video-training](https://www.linuxtrainingacademy.com/linux-video-training/).
+Solutions for the exercises from Udemy-Course [Python for Beginners: Learn Python Programming (Python 3)](https://www.udemy.com/python-programming-projects/).
 
 ### Data Types
 
