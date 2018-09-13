@@ -45,3 +45,5 @@ After the noun, verb, and adjective have been collected from the user, display t
 **01**: Create a Python program that captures and displays a person's to­do list. Continually prompt the user for another item until they enter a blank item. After all the items are entered, display the to­do list back to the user.
 
 **02**: Create a dictionary that contains a list of people and one interesting fact about each of them. Display each person and their interesting fact to the screen. Next, change a fact about one of the people. Also add an additional person and corresponding fact. Display the new list of people and facts. Run the program multiple times and notice if the order changes.
+
+**03**: Create a list of airports which includes tuples. The tuples contain an airport's name and it's code. Iterate through the list and use tuple assignment. Use one variable to hold the name of the airport and another variable to hold the airport code. Print the name and the code to the screen.
