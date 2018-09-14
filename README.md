@@ -1,4 +1,4 @@
-## Python Training - Processed exercises
+## Python for Beginners - Processed exercises
 
 Solutions for the exercises from Udemy-Course [Python for Beginners: Learn Python Programming (Python 3)](https://www.udemy.com/python-programming-projects/).
 
