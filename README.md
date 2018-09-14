@@ -31,6 +31,22 @@ Write a Python program that displays the answers to the following questions:
 
 **06**: Create a program that asks the user how far he/she wants to travel. If the answer is less than three miles tell the user to walk. If more than three miles, but less than three hundred miles, tell the user to drive. If more then 300 miles then tell the user to fly.
 
+### Data Structures
+
+**01**: Create a Python program that captures and displays a person's to­do list. Continually prompt the user for another item until they enter a blank item. After all the items are entered, display the to­do list back to the user.
+
+**02**: Create a dictionary that contains a list of people and one interesting fact about each of them. Display each person and their interesting fact to the screen. Next, change a fact about one of the people. Also add an additional person and corresponding fact. Display the new list of people and facts. Run the program multiple times and notice if the order changes.
+
+**03**: Create a list of airports which includes tuples. The tuples contain an airport's name and it's code. Iterate through the list and use tuple assignment. Use one variable to hold the name of the airport and another variable to hold the airport code. Print the name and the code to the screen.
+
+### Files and Modules
+
+**01**: Write a program that opens the given file 'dummy.txt'. Read and print the lines of the file and prepend each with a line number.
+
+**02**: Read the content of the given file 'animals.txt'. Write the lines **sorted** into a newly created file 'animals-sorted.txt'.
+
+**03**: Update the "cat says" script from the secion 'Data Types'. So that it can be run directly or imported as a module. When it runs as a program is should prompt for input and display a cat repeating what was provided by the user. Then create a script which imports the "cat says" module. Use a function from "cat says" to display messages on the screen.
+
 ### Functions
 
 **01**: Create a fill in the blank word game.
@@ -39,11 +55,3 @@ Prompt the user to enter a noun, verb, and an adjective. Use those responses to 
 Write a short story. Remove a noun, verb, and an adjective. Create a function to get the input from the user.
 Create a function that fills in the blanks in the story you created. Ensure each function contains a docstring.
 After the noun, verb, and adjective have been collected from the user, display the story using their input.
-
-### Data Structures
-
-**01**: Create a Python program that captures and displays a person's to­do list. Continually prompt the user for another item until they enter a blank item. After all the items are entered, display the to­do list back to the user.
-
-**02**: Create a dictionary that contains a list of people and one interesting fact about each of them. Display each person and their interesting fact to the screen. Next, change a fact about one of the people. Also add an additional person and corresponding fact. Display the new list of people and facts. Run the program multiple times and notice if the order changes.
-
-**03**: Create a list of airports which includes tuples. The tuples contain an airport's name and it's code. Iterate through the list and use tuple assignment. Use one variable to hold the name of the airport and another variable to hold the airport code. Print the name and the code to the screen.
